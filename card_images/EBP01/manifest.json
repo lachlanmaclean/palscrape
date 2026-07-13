@@ -1,0 +1,802 @@
+[
+  {
+    "id": 79,
+    "card_number": "EBP01-001",
+    "card_name": "Jormuntide Ignis – Savage Lava Dragon",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-001.png",
+    "downloaded": true
+  },
+  {
+    "id": 80,
+    "card_number": "EBP01-001OSR",
+    "card_name": "Jormuntide Ignis – Savage Lava Dragon",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-001OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 81,
+    "card_number": "EBP01-001SSP",
+    "card_name": "Jormuntide Ignis – Savage Lava Dragon",
+    "rare": "SSP",
+    "picture": "EBP01/EBP01-001SSP.png",
+    "downloaded": true
+  },
+  {
+    "id": 82,
+    "card_number": "EBP01-002",
+    "card_name": "Suzaku – Hellfire Wings",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-002.png",
+    "downloaded": true
+  },
+  {
+    "id": 83,
+    "card_number": "EBP01-002OSR",
+    "card_name": "Suzaku – Hellfire Wings",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-002OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 84,
+    "card_number": "EBP01-002SP",
+    "card_name": "Suzaku – Hellfire Wings",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-002SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 85,
+    "card_number": "EBP01-003",
+    "card_name": "Gobfin Ignis – Blazing Hothead",
+    "rare": "R",
+    "picture": "EBP01/EBP01-003.png",
+    "downloaded": true
+  },
+  {
+    "id": 86,
+    "card_number": "EBP01-003SR",
+    "card_name": "Gobfin Ignis – Blazing Hothead",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-003SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 87,
+    "card_number": "EBP01-004",
+    "card_name": "Bushi – Ephemeral Blade",
+    "rare": "R",
+    "picture": "EBP01/EBP01-004.png",
+    "downloaded": true
+  },
+  {
+    "id": 88,
+    "card_number": "EBP01-004SR",
+    "card_name": "Bushi – Ephemeral Blade",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-004SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 89,
+    "card_number": "EBP01-005",
+    "card_name": "Reptyro – Ore Gorger",
+    "rare": "R",
+    "picture": "EBP01/EBP01-005.png",
+    "downloaded": true
+  },
+  {
+    "id": 90,
+    "card_number": "EBP01-005SR",
+    "card_name": "Reptyro – Ore Gorger",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-005SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 91,
+    "card_number": "EBP01-006",
+    "card_name": "Foxparks – Light of Courage",
+    "rare": "U",
+    "picture": "EBP01/EBP01-006.png",
+    "downloaded": true
+  },
+  {
+    "id": 92,
+    "card_number": "EBP01-006SR",
+    "card_name": "Foxparks – Light of Courage",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-006SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 93,
+    "card_number": "EBP01-007",
+    "card_name": "Kitsun – Wyrmbane Fangs",
+    "rare": "U",
+    "picture": "EBP01/EBP01-007.png",
+    "downloaded": true
+  },
+  {
+    "id": 94,
+    "card_number": "EBP01-007SR",
+    "card_name": "Kitsun – Wyrmbane Fangs",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-007SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 95,
+    "card_number": "EBP01-008",
+    "card_name": "Sparkit – Hazardous Contact",
+    "rare": "U",
+    "picture": "EBP01/EBP01-008.png",
+    "downloaded": true
+  },
+  {
+    "id": 96,
+    "card_number": "EBP01-009",
+    "card_name": "Univolt – Valiant Thunderclap",
+    "rare": "U",
+    "picture": "EBP01/EBP01-009.png",
+    "downloaded": true
+  },
+  {
+    "id": 97,
+    "card_number": "EBP01-010",
+    "card_name": "Ragnahawk – Emberwing Striker",
+    "rare": "U",
+    "picture": "EBP01/EBP01-010.png",
+    "downloaded": true
+  },
+  {
+    "id": 98,
+    "card_number": "EBP01-011",
+    "card_name": "Rooby – Brave Sparks",
+    "rare": "C",
+    "picture": "EBP01/EBP01-011.png",
+    "downloaded": true
+  },
+  {
+    "id": 99,
+    "card_number": "EBP01-012",
+    "card_name": "Flambelle – Scorching Tears",
+    "rare": "C",
+    "picture": "EBP01/EBP01-012.png",
+    "downloaded": true
+  },
+  {
+    "id": 100,
+    "card_number": "EBP01-013",
+    "card_name": "Pyrin – Cinder Steed",
+    "rare": "C",
+    "picture": "EBP01/EBP01-013.png",
+    "downloaded": true
+  },
+  {
+    "id": 101,
+    "card_number": "EBP01-014",
+    "card_name": "Blazehowl – Hellflame Defender",
+    "rare": "C",
+    "picture": "EBP01/EBP01-014.png",
+    "downloaded": true
+  },
+  {
+    "id": 102,
+    "card_number": "EBP01-015",
+    "card_name": "Mounted Machine Gun",
+    "rare": "R",
+    "picture": "EBP01/EBP01-015.png",
+    "downloaded": true
+  },
+  {
+    "id": 103,
+    "card_number": "EBP01-015SP",
+    "card_name": "Mounted Machine Gun",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-015SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 104,
+    "card_number": "EBP01-016",
+    "card_name": "Primitive Furnace",
+    "rare": "U",
+    "picture": "EBP01/EBP01-016.png",
+    "downloaded": true
+  },
+  {
+    "id": 105,
+    "card_number": "EBP01-017",
+    "card_name": "Flame Cauldron",
+    "rare": "U",
+    "picture": "EBP01/EBP01-017.png",
+    "downloaded": true
+  },
+  {
+    "id": 106,
+    "card_number": "EBP01-018",
+    "card_name": "Alarm Bell",
+    "rare": "C",
+    "picture": "EBP01/EBP01-018.png",
+    "downloaded": true
+  },
+  {
+    "id": 107,
+    "card_number": "EBP01-019",
+    "card_name": "Foxparks' Harness",
+    "rare": "R",
+    "picture": "EBP01/EBP01-019.png",
+    "downloaded": true
+  },
+  {
+    "id": 108,
+    "card_number": "EBP01-019SR",
+    "card_name": "Foxparks' Harness",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-019SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 109,
+    "card_number": "EBP01-020",
+    "card_name": "Pump-Action Shotgun",
+    "rare": "R",
+    "picture": "EBP01/EBP01-020.png",
+    "downloaded": true
+  },
+  {
+    "id": 110,
+    "card_number": "EBP01-020SR",
+    "card_name": "Pump-Action Shotgun",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-020SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 111,
+    "card_number": "EBP01-021",
+    "card_name": "Makeshift Handgun",
+    "rare": "C",
+    "picture": "EBP01/EBP01-021.png",
+    "downloaded": true
+  },
+  {
+    "id": 112,
+    "card_number": "EBP01-022",
+    "card_name": "Stone Pickaxe",
+    "rare": "C",
+    "picture": "EBP01/EBP01-022.png",
+    "downloaded": true
+  },
+  {
+    "id": 113,
+    "card_number": "EBP01-023",
+    "card_name": "Axel's Strategy",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-023.png",
+    "downloaded": true
+  },
+  {
+    "id": 114,
+    "card_number": "EBP01-023OSR",
+    "card_name": "Axel's Strategy",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-023OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 115,
+    "card_number": "EBP01-023SP",
+    "card_name": "Axel's Strategy",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-023SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 116,
+    "card_number": "EBP01-024",
+    "card_name": "Treasure Chest Found!",
+    "rare": "C",
+    "picture": "EBP01/EBP01-024.png",
+    "downloaded": true
+  },
+  {
+    "id": 117,
+    "card_number": "EBP01-025",
+    "card_name": "Chillet – Dragon Whisperer",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-025.png",
+    "downloaded": true
+  },
+  {
+    "id": 118,
+    "card_number": "EBP01-025OSR",
+    "card_name": "Chillet – Dragon Whisperer",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-025OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 119,
+    "card_number": "EBP01-025SSP",
+    "card_name": "Chillet – Dragon Whisperer",
+    "rare": "SSP",
+    "picture": "EBP01/EBP01-025SSP.png",
+    "downloaded": true
+  },
+  {
+    "id": 120,
+    "card_number": "EBP01-026",
+    "card_name": "Relaxaurus – Hungry Gunner",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-026.png",
+    "downloaded": true
+  },
+  {
+    "id": 121,
+    "card_number": "EBP01-026OSR",
+    "card_name": "Relaxaurus – Hungry Gunner",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-026OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 122,
+    "card_number": "EBP01-026SP",
+    "card_name": "Relaxaurus – Hungry Gunner",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-026SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 123,
+    "card_number": "EBP01-027",
+    "card_name": "Jormuntide – Surging Sea Serpent",
+    "rare": "R",
+    "picture": "EBP01/EBP01-027.png",
+    "downloaded": true
+  },
+  {
+    "id": 124,
+    "card_number": "EBP01-027OSR",
+    "card_name": "Jormuntide – Surging Sea Serpent",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-027OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 125,
+    "card_number": "EBP01-027SP",
+    "card_name": "Jormuntide – Surging Sea Serpent",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-027SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 126,
+    "card_number": "EBP01-028",
+    "card_name": "Pengullet – Yearning for the Sky",
+    "rare": "R",
+    "picture": "EBP01/EBP01-028.png",
+    "downloaded": true
+  },
+  {
+    "id": 127,
+    "card_number": "EBP01-028SR",
+    "card_name": "Pengullet – Yearning for the Sky",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-028SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 128,
+    "card_number": "EBP01-029",
+    "card_name": "Azurobe – Water Dragon Waltz",
+    "rare": "R",
+    "picture": "EBP01/EBP01-029.png",
+    "downloaded": true
+  },
+  {
+    "id": 129,
+    "card_number": "EBP01-029SR",
+    "card_name": "Azurobe – Water Dragon Waltz",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-029SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 130,
+    "card_number": "EBP01-030",
+    "card_name": "Reptyro Cryst – Glacial Devourer",
+    "rare": "R",
+    "picture": "EBP01/EBP01-030.png",
+    "downloaded": true
+  },
+  {
+    "id": 131,
+    "card_number": "EBP01-030SR",
+    "card_name": "Reptyro Cryst – Glacial Devourer",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-030SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 132,
+    "card_number": "EBP01-031",
+    "card_name": "Penking – Mighty Warrior of the Deep",
+    "rare": "U",
+    "picture": "EBP01/EBP01-031.png",
+    "downloaded": true
+  },
+  {
+    "id": 133,
+    "card_number": "EBP01-031SR",
+    "card_name": "Penking – Mighty Warrior of the Deep",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-031SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 134,
+    "card_number": "EBP01-032",
+    "card_name": "Fuack – Manic Wave Ripper",
+    "rare": "U",
+    "picture": "EBP01/EBP01-032.png",
+    "downloaded": true
+  },
+  {
+    "id": 135,
+    "card_number": "EBP01-033",
+    "card_name": "Wumpo – Frostpeak Sentinel",
+    "rare": "U",
+    "picture": "EBP01/EBP01-033.png",
+    "downloaded": true
+  },
+  {
+    "id": 136,
+    "card_number": "EBP01-034",
+    "card_name": "Teafant – Fountain of Cheer",
+    "rare": "C",
+    "picture": "EBP01/EBP01-034.png",
+    "downloaded": true
+  },
+  {
+    "id": 137,
+    "card_number": "EBP01-035",
+    "card_name": "Mau Cryst – Harbinger of Riches",
+    "rare": "C",
+    "picture": "EBP01/EBP01-035.png",
+    "downloaded": true
+  },
+  {
+    "id": 138,
+    "card_number": "EBP01-036",
+    "card_name": "Celaray – Loop De Loop",
+    "rare": "C",
+    "picture": "EBP01/EBP01-036.png",
+    "downloaded": true
+  },
+  {
+    "id": 139,
+    "card_number": "EBP01-037",
+    "card_name": "Surfent – Swift Swimmer",
+    "rare": "C",
+    "picture": "EBP01/EBP01-037.png",
+    "downloaded": true
+  },
+  {
+    "id": 140,
+    "card_number": "EBP01-038",
+    "card_name": "Cryolinx – Arctic Ordeal",
+    "rare": "C",
+    "picture": "EBP01/EBP01-038.png",
+    "downloaded": true
+  },
+  {
+    "id": 141,
+    "card_number": "EBP01-039",
+    "card_name": "Antique Curtain",
+    "rare": "R",
+    "picture": "EBP01/EBP01-039.png",
+    "downloaded": true
+  },
+  {
+    "id": 142,
+    "card_number": "EBP01-039SR",
+    "card_name": "Antique Curtain",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-039SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 143,
+    "card_number": "EBP01-040",
+    "card_name": "Antique Dresser",
+    "rare": "U",
+    "picture": "EBP01/EBP01-040.png",
+    "downloaded": true
+  },
+  {
+    "id": 144,
+    "card_number": "EBP01-041",
+    "card_name": "Hot Spring",
+    "rare": "U",
+    "picture": "EBP01/EBP01-041.png",
+    "downloaded": true
+  },
+  {
+    "id": 145,
+    "card_number": "EBP01-042",
+    "card_name": "Antique Mirror",
+    "rare": "C",
+    "picture": "EBP01/EBP01-042.png",
+    "downloaded": true
+  },
+  {
+    "id": 146,
+    "card_number": "EBP01-043",
+    "card_name": "Sphere Workbench",
+    "rare": "C",
+    "picture": "EBP01/EBP01-043.png",
+    "downloaded": true
+  },
+  {
+    "id": 147,
+    "card_number": "EBP01-044",
+    "card_name": "Pengullet Rocket Launcher",
+    "rare": "R",
+    "picture": "EBP01/EBP01-044.png",
+    "downloaded": true
+  },
+  {
+    "id": 148,
+    "card_number": "EBP01-044SR",
+    "card_name": "Pengullet Rocket Launcher",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-044SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 149,
+    "card_number": "EBP01-045",
+    "card_name": "Grappling Gun",
+    "rare": "U",
+    "picture": "EBP01/EBP01-045.png",
+    "downloaded": true
+  },
+  {
+    "id": 150,
+    "card_number": "EBP01-046",
+    "card_name": "Victor's Strategy",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-046.png",
+    "downloaded": true
+  },
+  {
+    "id": 151,
+    "card_number": "EBP01-046OSR",
+    "card_name": "Victor's Strategy",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-046OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 152,
+    "card_number": "EBP01-046SP",
+    "card_name": "Victor's Strategy",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-046SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 153,
+    "card_number": "EBP01-047",
+    "card_name": "Pal Sphere",
+    "rare": "U",
+    "picture": "EBP01/EBP01-047.png",
+    "downloaded": true
+  },
+  {
+    "id": 154,
+    "card_number": "EBP01-047SR",
+    "card_name": "Pal Sphere",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-047SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 155,
+    "card_number": "EBP01-048",
+    "card_name": "Aurora Guide",
+    "rare": "C",
+    "picture": "EBP01/EBP01-048.png",
+    "downloaded": true
+  },
+  {
+    "id": 156,
+    "card_number": "EBP01-049",
+    "card_name": "Lyleen – Blessing of the Goddess",
+    "rare": "RR/SSP",
+    "picture": "EBP01/EBP01-049.png",
+    "downloaded": true
+  },
+  {
+    "id": 157,
+    "card_number": "EBP01-049OSR",
+    "card_name": "Lyleen – Blessing of the Goddess",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-049OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 158,
+    "card_number": "EBP01-049SSP",
+    "card_name": "Lyleen – Blessing of the Goddess",
+    "rare": "SSP",
+    "picture": "EBP01/EBP01-049SSP.png",
+    "downloaded": true
+  },
+  {
+    "id": 159,
+    "card_number": "EBP01-050",
+    "card_name": "Digtoise – Seismic Drillback",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-050.png",
+    "downloaded": true
+  },
+  {
+    "id": 160,
+    "card_number": "EBP01-050OSR",
+    "card_name": "Digtoise – Seismic Drillback",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-050OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 161,
+    "card_number": "EBP01-050SP",
+    "card_name": "Digtoise – Seismic Drillback",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-050SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 162,
+    "card_number": "EBP01-051",
+    "card_name": "Petallia – Sweet Blessings",
+    "rare": "R",
+    "picture": "EBP01/EBP01-051.png",
+    "downloaded": true
+  },
+  {
+    "id": 163,
+    "card_number": "EBP01-051OSR",
+    "card_name": "Petallia – Sweet Blessings",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-051OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 164,
+    "card_number": "EBP01-051SP",
+    "card_name": "Petallia – Sweet Blessings",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-051SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 165,
+    "card_number": "EBP01-052",
+    "card_name": "Rushoar – Reckless Destruction",
+    "rare": "R",
+    "picture": "EBP01/EBP01-052.png",
+    "downloaded": true
+  },
+  {
+    "id": 166,
+    "card_number": "EBP01-052SR",
+    "card_name": "Rushoar – Reckless Destruction",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-052SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 167,
+    "card_number": "EBP01-053",
+    "card_name": "Elizabee – Queen of the Flower Garden",
+    "rare": "R",
+    "picture": "EBP01/EBP01-053.png",
+    "downloaded": true
+  },
+  {
+    "id": 168,
+    "card_number": "EBP01-053SR",
+    "card_name": "Elizabee – Queen of the Flower Garden",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-053SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 169,
+    "card_number": "EBP01-054",
+    "card_name": "Warsect – Iron Fortress",
+    "rare": "R",
+    "picture": "EBP01/EBP01-054.png",
+    "downloaded": true
+  },
+  {
+    "id": 170,
+    "card_number": "EBP01-054SR",
+    "card_name": "Warsect – Iron Fortress",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-054SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 171,
+    "card_number": "EBP01-055",
+    "card_name": "Vaelet – Bewitching Blossom",
+    "rare": "U",
+    "picture": "EBP01/EBP01-055.png",
+    "downloaded": true
+  },
+  {
+    "id": 172,
+    "card_number": "EBP01-055SR",
+    "card_name": "Vaelet – Bewitching Blossom",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-055SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 173,
+    "card_number": "EBP01-056",
+    "card_name": "Lifmunk – Promising Newbie",
+    "rare": "C",
+    "picture": "EBP01/EBP01-056.png",
+    "downloaded": true
+  },
+  {
+    "id": 174,
+    "card_number": "EBP01-056SR",
+    "card_name": "Lifmunk – Promising Newbie",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-056SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 175,
+    "card_number": "EBP01-057",
+    "card_name": "Dumud – Mellow Bounty",
+    "rare": "U",
+    "picture": "EBP01/EBP01-057.png",
+    "downloaded": true
+  },
+  {
+    "id": 176,
+    "card_number": "EBP01-058",
+    "card_name": "Gumoss – Curious Sprout",
+    "rare": "U",
+    "picture": "EBP01/EBP01-058.png",
+    "downloaded": true
+  },
+  {
+    "id": 177,
+    "card_number": "EBP01-059",
+    "card_name": "Digtoise – Keen Needleback",
+    "rare": "U",
+    "picture": "EBP01/EBP01-059.png",
+    "downloaded": true
+  },
+  {
+    "id": 178,
+    "card_number": "EBP01-060",
+    "card_name": "Tanzee – Cheerful Worker",
+    "rare": "C",
+    "picture": "EBP01/EBP01-060.png",
+    "downloaded": true
+  }
+]

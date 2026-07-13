@@ -1,0 +1,314 @@
+[
+  {
+    "id": 39,
+    "card_number": "ESOUL-001",
+    "card_name": "Soul",
+    "rare": "TD",
+    "picture": "ETD01/ESOUL-001.png",
+    "downloaded": true
+  },
+  {
+    "id": 1,
+    "card_number": "ETD01-001",
+    "card_name": "Grizzbolt – Rumbling Tank",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-001.png",
+    "downloaded": true
+  },
+  {
+    "id": 2,
+    "card_number": "ETD01-001TSP",
+    "card_name": "Grizzbolt – Rumbling Tank",
+    "rare": "TSP",
+    "picture": "ETD01/ETD01-001TSP.png",
+    "downloaded": true
+  },
+  {
+    "id": 3,
+    "card_number": "ETD01-001TSR",
+    "card_name": "Grizzbolt – Rumbling Tank",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-001TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 4,
+    "card_number": "ETD01-002",
+    "card_name": "Jolthog – Shocking Yet Innocent",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-002.png",
+    "downloaded": true
+  },
+  {
+    "id": 5,
+    "card_number": "ETD01-003",
+    "card_name": "Kelpsea Ignis – Balmy Magma",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-003.png",
+    "downloaded": true
+  },
+  {
+    "id": 6,
+    "card_number": "ETD01-004",
+    "card_name": "Foxparks – A Toasty Hug",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-004.png",
+    "downloaded": true
+  },
+  {
+    "id": 7,
+    "card_number": "ETD01-005",
+    "card_name": "Arsox – Burning Spoils",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-005.png",
+    "downloaded": true
+  },
+  {
+    "id": 8,
+    "card_number": "ETD01-005TSR",
+    "card_name": "Arsox – Burning Spoils",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-005TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 9,
+    "card_number": "ETD01-006",
+    "card_name": "Mossanda Lux – Vanguard Captain",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-006.png",
+    "downloaded": true
+  },
+  {
+    "id": 10,
+    "card_number": "ETD01-007",
+    "card_name": "Blazamut – Molten Sovereign",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-007.png",
+    "downloaded": true
+  },
+  {
+    "id": 11,
+    "card_number": "ETD01-007TSR",
+    "card_name": "Blazamut – Molten Sovereign",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-007TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 12,
+    "card_number": "ETD01-008",
+    "card_name": "Stone Pit",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-008.png",
+    "downloaded": true
+  },
+  {
+    "id": 13,
+    "card_number": "ETD01-008TSR",
+    "card_name": "Stone Pit",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-008TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 14,
+    "card_number": "ETD01-009",
+    "card_name": "Weapon Workbench",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-009.png",
+    "downloaded": true
+  },
+  {
+    "id": 15,
+    "card_number": "ETD01-010",
+    "card_name": "Single-Shot Rifle",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-010.png",
+    "downloaded": true
+  },
+  {
+    "id": 16,
+    "card_number": "ETD01-011",
+    "card_name": "Ignis Breath",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-011.png",
+    "downloaded": true
+  },
+  {
+    "id": 17,
+    "card_number": "ETD01-011TSR",
+    "card_name": "Ignis Breath",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-011TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 18,
+    "card_number": "ETD01-012",
+    "card_name": "Elphidran Aqua – Gentle Ripples",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-012.png",
+    "downloaded": true
+  },
+  {
+    "id": 19,
+    "card_number": "ETD01-012TSP",
+    "card_name": "Elphidran Aqua – Gentle Ripples",
+    "rare": "TSP",
+    "picture": "ETD01/ETD01-012TSP.png",
+    "downloaded": true
+  },
+  {
+    "id": 20,
+    "card_number": "ETD01-012TSR",
+    "card_name": "Elphidran Aqua – Gentle Ripples",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-012TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 21,
+    "card_number": "ETD01-013",
+    "card_name": "Jolthog Cryst – Stoic Yet Innocent",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-013.png",
+    "downloaded": true
+  },
+  {
+    "id": 22,
+    "card_number": "ETD01-014",
+    "card_name": "Pengullet – Frequent Flyer",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-014.png",
+    "downloaded": true
+  },
+  {
+    "id": 23,
+    "card_number": "ETD01-014TSR",
+    "card_name": "Pengullet – Frequent Flyer",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-014TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 24,
+    "card_number": "ETD01-015",
+    "card_name": "Hangyu Cryst – Frigid Wanderer",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-015.png",
+    "downloaded": true
+  },
+  {
+    "id": 25,
+    "card_number": "ETD01-016",
+    "card_name": "Reindrix – Icy Gaze",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-016.png",
+    "downloaded": true
+  },
+  {
+    "id": 26,
+    "card_number": "ETD01-017",
+    "card_name": "Suzaku Aqua – Way of the Current",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-017.png",
+    "downloaded": true
+  },
+  {
+    "id": 27,
+    "card_number": "ETD01-017TSR",
+    "card_name": "Suzaku Aqua – Way of the Current",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-017TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 28,
+    "card_number": "ETD01-018",
+    "card_name": "Mammorest Cryst – Roar of the Tundra",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-018.png",
+    "downloaded": true
+  },
+  {
+    "id": 29,
+    "card_number": "ETD01-018TSR",
+    "card_name": "Mammorest Cryst – Roar of the Tundra",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-018TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 30,
+    "card_number": "ETD01-019",
+    "card_name": "Antique Wooden Chair",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-019.png",
+    "downloaded": true
+  },
+  {
+    "id": 31,
+    "card_number": "ETD01-020",
+    "card_name": "Primitive Workbench",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-020.png",
+    "downloaded": true
+  },
+  {
+    "id": 32,
+    "card_number": "ETD01-021",
+    "card_name": "Single-Shot Sphere Launcher",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-021.png",
+    "downloaded": true
+  },
+  {
+    "id": 33,
+    "card_number": "ETD01-022",
+    "card_name": "Crystal Breath",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-022.png",
+    "downloaded": true
+  },
+  {
+    "id": 34,
+    "card_number": "ETD01-022TSR",
+    "card_name": "Crystal Breath",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-022TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 35,
+    "card_number": "ETD01-023",
+    "card_name": "Lamball – My First Pal",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-023.png",
+    "downloaded": true
+  },
+  {
+    "id": 36,
+    "card_number": "ETD01-023TSR",
+    "card_name": "Lamball – My First Pal",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-023TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 37,
+    "card_number": "ETD01-024",
+    "card_name": "Ribbuny – Little Princess",
+    "rare": "TD",
+    "picture": "ETD01/ETD01-024.png",
+    "downloaded": true
+  },
+  {
+    "id": 38,
+    "card_number": "ETD01-024TSR",
+    "card_name": "Ribbuny – Little Princess",
+    "rare": "TSR",
+    "picture": "ETD01/ETD01-024TSR.png",
+    "downloaded": true
+  }
+]

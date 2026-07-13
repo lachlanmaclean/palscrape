@@ -1,0 +1,35 @@
+{
+  "expansion": "ETD01",
+  "expansion_name": "Trial Deck \"Dawn of Palpagos Red・Blue\"",
+  "source": "Visual count from user-provided photo of an opened physical trial deck",
+  "note": "Copy counts are best-guess estimates from stack thickness in the photo. Official spec is 50 main + 10 Soul = 60 total; verify against physical deck before treating as final.",
+  "main_deck": [
+    { "card_number": "ETD01-021", "card_name": "Single-Shot Sphere Launcher", "count": 2 },
+    { "card_number": "ETD01-022", "card_name": "Crystal Breath", "count": 2 },
+    { "card_number": "ETD01-013", "card_name": "Jolthog Cryst – Stoic Yet Innocent", "count": 3 },
+    { "card_number": "ETD01-014", "card_name": "Pengullet – Frequent Flyer", "count": 2 },
+    { "card_number": "ETD01-015", "card_name": "Hangyu Cryst – Frigid Wanderer", "count": 2 },
+    { "card_number": "ETD01-016", "card_name": "Reindrix – Icy Gaze", "count": 2 },
+    { "card_number": "ETD01-019", "card_name": "Antique Wooden Chair", "count": 2 },
+    { "card_number": "ETD01-012", "card_name": "Elphidran Aqua – Gentle Ripples", "count": 2 },
+    { "card_number": "ETD01-017", "card_name": "Suzaku Aqua – Way of the Current", "count": 2 },
+    { "card_number": "ETD01-018", "card_name": "Mammorest Cryst – Roar of the Tundra", "count": 2 },
+    { "card_number": "ETD01-023", "card_name": "Lamball – My First Pal", "count": 2 },
+    { "card_number": "ETD01-024", "card_name": "Ribbuny – Little Princess", "count": 2 },
+    { "card_number": "ETD01-020", "card_name": "Primitive Workbench", "count": 2 },
+    { "card_number": "ETD01-010", "card_name": "Single-Shot Rifle", "count": 2 },
+    { "card_number": "ETD01-011", "card_name": "Ignis Breath", "count": 2 },
+    { "card_number": "ETD01-004", "card_name": "Foxparks – A Toasty Hug", "count": 2 },
+    { "card_number": "ETD01-002", "card_name": "Jolthog – Shocking Yet Innocent", "count": 2 },
+    { "card_number": "ETD01-003", "card_name": "Kelpsea Ignis – Balmy Magma", "count": 2 },
+    { "card_number": "ETD01-008", "card_name": "Stone Pit", "count": 2 },
+    { "card_number": "ETD01-009", "card_name": "Weapon Workbench", "count": 1 },
+    { "card_number": "ETD01-005", "card_name": "Arsox – Burning Spoils", "count": 3 },
+    { "card_number": "ETD01-006", "card_name": "Mossanda Lux – Vanguard Captain", "count": 3 },
+    { "card_number": "ETD01-001", "card_name": "Grizzbolt – Rumbling Tank", "count": 2 },
+    { "card_number": "ETD01-007", "card_name": "Blazamut – Molten Sovereign", "count": 2 }
+  ],
+  "soul_deck": [
+    { "card_number": "ESOUL-001", "card_name": "Soul", "count": 10 }
+  ]
+}

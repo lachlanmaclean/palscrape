@@ -1,0 +1,35 @@
+{
+  "expansion": "ETD02",
+  "expansion_name": "Trial Deck \"Dawn of Palpagos Green・Purple\"",
+  "source": "Visual count from user-provided photo of an opened physical trial deck",
+  "note": "Copy counts are best-guess estimates from stack thickness in the photo, not reconciled to a fixed deck total.",
+  "main_deck": [
+    { "card_number": "ETD02-019", "card_name": "Hanging Trap", "count": 2 },
+    { "card_number": "ETD02-020", "card_name": "Cawgnito Hat", "count": 2 },
+    { "card_number": "ETD02-021", "card_name": "Strike from the Darkness", "count": 2 },
+    { "card_number": "ETD02-022", "card_name": "Medical Supplies", "count": 2 },
+    { "card_number": "ETD02-013", "card_name": "Hoocrates – Embodiment of Wisdom", "count": 3 },
+    { "card_number": "ETD02-014", "card_name": "Leezpunk – Treasure Bandit", "count": 2 },
+    { "card_number": "ETD02-009", "card_name": "Campfire", "count": 2 },
+    { "card_number": "ETD02-015", "card_name": "Cawgnito – Looming Shadow", "count": 2 },
+    { "card_number": "ETD02-016", "card_name": "Incineram – Lurking Stalker", "count": 2 },
+    { "card_number": "ETD02-017", "card_name": "Blazehowl Noct – Darkflame Defender", "count": 2 },
+    { "card_number": "ETD02-018", "card_name": "Felbat – Lifestealer", "count": 2 },
+    { "card_number": "ETD02-012", "card_name": "Astegon – Aegis Wyvern of Death", "count": 2 },
+    { "card_number": "ETD02-008", "card_name": "Berry Plantation", "count": 2 },
+    { "card_number": "ETD02-023", "card_name": "Cattiva – My First Pal", "count": 2 },
+    { "card_number": "ETD02-024", "card_name": "Chikipi – My First Pal", "count": 2 },
+    { "card_number": "ETD02-011", "card_name": "Stone Blast", "count": 2 },
+    { "card_number": "ETD02-010", "card_name": "Refined Metal Spear", "count": 2 },
+    { "card_number": "ETD02-002", "card_name": "Gumoss – Dreamy Seedling", "count": 2 },
+    { "card_number": "ETD02-003", "card_name": "Flopie – Snack Lover", "count": 2 },
+    { "card_number": "ETD02-004", "card_name": "Dinossom – Radiant Fragrance", "count": 2 },
+    { "card_number": "ETD02-001", "card_name": "Mossanda – Guard Captain", "count": 2 },
+    { "card_number": "ETD02-005", "card_name": "Eikthyrdeer Terra – Guardian of Nature", "count": 3 },
+    { "card_number": "ETD02-006", "card_name": "Broncherry – Brimming Adoration", "count": 2 },
+    { "card_number": "ETD02-007", "card_name": "Mammorest – Roar of the Wilds", "count": 2 }
+  ],
+  "soul_deck": [
+    { "card_number": "ESOUL-001", "card_name": "Soul", "count": 10 }
+  ]
+}
