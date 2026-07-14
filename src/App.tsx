@@ -132,7 +132,7 @@ function App() {
           const count = getCount(activeExpansion, card.cardNumber);
           return (
             <div className="card-tile" key={card.cardNumber}>
-              <img src={`/${card.image}`} alt={card.cardName} loading="lazy" />
+              <img src={`${import.meta.env.BASE_URL}${card.image}`} alt={card.cardName} loading="lazy" />
               <div className="card-tile-info">
                 <div className="card-tile-name">{card.cardName}</div>
                 <div className="card-tile-meta">
