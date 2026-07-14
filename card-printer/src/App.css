@@ -1,0 +1,167 @@
+.app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 24px 24px 140px;
+}
+
+.app-header h1 {
+  margin: 0 0 4px;
+  font-size: 1.8rem;
+}
+
+.subtitle {
+  margin: 0 0 20px;
+  color: var(--text-muted, #888);
+}
+
+.expansion-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.tab {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid #444;
+  background: transparent;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.tab.active {
+  background: #22c55e;
+  border-color: #22c55e;
+  color: #0a0a0a;
+}
+
+.expansion-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.expansion-toolbar h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  flex: 1 1 auto;
+  min-width: 200px;
+}
+
+.search-input {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #444;
+  min-width: 240px;
+  font-size: 0.95rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+.card-tile {
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.card-tile img {
+  width: 100%;
+  border-radius: 6px;
+  aspect-ratio: 5 / 7;
+  object-fit: cover;
+  background: #111;
+}
+
+.card-tile-name {
+  font-weight: 600;
+  font-size: 0.9rem;
+  line-height: 1.2;
+}
+
+.card-tile-meta {
+  font-size: 0.75rem;
+  color: var(--text-muted, #888);
+}
+
+.qty-control {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.qty-control button {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background: transparent;
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.qty-control input {
+  width: 48px;
+  text-align: center;
+  padding: 4px;
+  border-radius: 6px;
+  border: 1px solid #444;
+}
+
+.btn {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.btn-primary {
+  background: #22c55e;
+  color: #0a0a0a;
+}
+
+.btn-secondary {
+  background: transparent;
+  border-color: #444;
+}
+
+.selection-tray {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #161616;
+  border-top: 1px solid #333;
+  padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.selection-tray-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.progress-text {
+  color: var(--text-muted, #888);
+}

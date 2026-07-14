@@ -1,0 +1,1286 @@
+{
+  "ETD01": {
+    "name": "Trial Deck \"Dawn of Palpagos Red・Blue\"",
+    "cards": [
+      {
+        "cardNumber": "ESOUL-001",
+        "cardName": "Soul",
+        "rare": "TD",
+        "image": "card_images/ETD01/ESOUL-001.png",
+        "starterDeckCount": 10
+      },
+      {
+        "cardNumber": "ETD01-001",
+        "cardName": "Grizzbolt – Rumbling Tank",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-001.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-001TSP",
+        "cardName": "Grizzbolt – Rumbling Tank",
+        "rare": "TSP",
+        "image": "card_images/ETD01/ETD01-001TSP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-001TSR",
+        "cardName": "Grizzbolt – Rumbling Tank",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-001TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-002",
+        "cardName": "Jolthog – Shocking Yet Innocent",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-002.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-003",
+        "cardName": "Kelpsea Ignis – Balmy Magma",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-003.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-004",
+        "cardName": "Foxparks – A Toasty Hug",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-004.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-005",
+        "cardName": "Arsox – Burning Spoils",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-005.png",
+        "starterDeckCount": 3
+      },
+      {
+        "cardNumber": "ETD01-005TSR",
+        "cardName": "Arsox – Burning Spoils",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-005TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-006",
+        "cardName": "Mossanda Lux – Vanguard Captain",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-006.png",
+        "starterDeckCount": 3
+      },
+      {
+        "cardNumber": "ETD01-007",
+        "cardName": "Blazamut – Molten Sovereign",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-007.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-007TSR",
+        "cardName": "Blazamut – Molten Sovereign",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-007TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-008",
+        "cardName": "Stone Pit",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-008.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-008TSR",
+        "cardName": "Stone Pit",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-008TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-009",
+        "cardName": "Weapon Workbench",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-009.png",
+        "starterDeckCount": 1
+      },
+      {
+        "cardNumber": "ETD01-010",
+        "cardName": "Single-Shot Rifle",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-010.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-011",
+        "cardName": "Ignis Breath",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-011.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-011TSR",
+        "cardName": "Ignis Breath",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-011TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-012",
+        "cardName": "Elphidran Aqua – Gentle Ripples",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-012.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-012TSP",
+        "cardName": "Elphidran Aqua – Gentle Ripples",
+        "rare": "TSP",
+        "image": "card_images/ETD01/ETD01-012TSP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-012TSR",
+        "cardName": "Elphidran Aqua – Gentle Ripples",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-012TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-013",
+        "cardName": "Jolthog Cryst – Stoic Yet Innocent",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-013.png",
+        "starterDeckCount": 3
+      },
+      {
+        "cardNumber": "ETD01-014",
+        "cardName": "Pengullet – Frequent Flyer",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-014.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-014TSR",
+        "cardName": "Pengullet – Frequent Flyer",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-014TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-015",
+        "cardName": "Hangyu Cryst – Frigid Wanderer",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-015.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-016",
+        "cardName": "Reindrix – Icy Gaze",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-016.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-017",
+        "cardName": "Suzaku Aqua – Way of the Current",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-017.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-017TSR",
+        "cardName": "Suzaku Aqua – Way of the Current",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-017TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-018",
+        "cardName": "Mammorest Cryst – Roar of the Tundra",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-018.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-018TSR",
+        "cardName": "Mammorest Cryst – Roar of the Tundra",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-018TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-019",
+        "cardName": "Antique Wooden Chair",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-019.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-020",
+        "cardName": "Primitive Workbench",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-020.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-021",
+        "cardName": "Single-Shot Sphere Launcher",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-021.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-022",
+        "cardName": "Crystal Breath",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-022.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-022TSR",
+        "cardName": "Crystal Breath",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-022TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-023",
+        "cardName": "Lamball – My First Pal",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-023.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-023TSR",
+        "cardName": "Lamball – My First Pal",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-023TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD01-024",
+        "cardName": "Ribbuny – Little Princess",
+        "rare": "TD",
+        "image": "card_images/ETD01/ETD01-024.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD01-024TSR",
+        "cardName": "Ribbuny – Little Princess",
+        "rare": "TSR",
+        "image": "card_images/ETD01/ETD01-024TSR.png",
+        "starterDeckCount": 0
+      }
+    ],
+    "hasStarterDeck": true
+  },
+  "ETD02": {
+    "name": "Trial Deck \"Dawn of Palpagos Green・Purple\"",
+    "cards": [
+      {
+        "cardNumber": "ESOUL-001",
+        "cardName": "Soul",
+        "rare": "TD",
+        "image": "card_images/ETD02/ESOUL-001.png",
+        "starterDeckCount": 10
+      },
+      {
+        "cardNumber": "ETD02-001",
+        "cardName": "Mossanda – Guard Captain",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-001.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-001TSP",
+        "cardName": "Mossanda – Guard Captain",
+        "rare": "TSP",
+        "image": "card_images/ETD02/ETD02-001TSP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-001TSR",
+        "cardName": "Mossanda – Guard Captain",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-001TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-002",
+        "cardName": "Gumoss – Dreamy Seedling",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-002.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-003",
+        "cardName": "Flopie – Snack Lover",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-003.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-003TSR",
+        "cardName": "Flopie – Snack Lover",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-003TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-004",
+        "cardName": "Dinossom – Radiant Fragrance",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-004.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-005",
+        "cardName": "Eikthyrdeer Terra – Guardian of Nature",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-005.png",
+        "starterDeckCount": 3
+      },
+      {
+        "cardNumber": "ETD02-006",
+        "cardName": "Broncherry – Brimming Adoration",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-006.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-006TSR",
+        "cardName": "Broncherry – Brimming Adoration",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-006TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-007",
+        "cardName": "Mammorest – Roar of the Wilds",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-007.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-007TSR",
+        "cardName": "Mammorest – Roar of the Wilds",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-007TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-008",
+        "cardName": "Berry Plantation",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-008.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-008TSR",
+        "cardName": "Berry Plantation",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-008TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-009",
+        "cardName": "Campfire",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-009.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-010",
+        "cardName": "Refined Metal Spear",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-010.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-011",
+        "cardName": "Stone Blast",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-011.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-012",
+        "cardName": "Astegon – Aegis Wyvern of Death",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-012.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-012TSP",
+        "cardName": "Astegon – Aegis Wyvern of Death",
+        "rare": "TSP",
+        "image": "card_images/ETD02/ETD02-012TSP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-012TSR",
+        "cardName": "Astegon – Aegis Wyvern of Death",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-012TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-013",
+        "cardName": "Hoocrates – Embodiment of Wisdom",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-013.png",
+        "starterDeckCount": 3
+      },
+      {
+        "cardNumber": "ETD02-014",
+        "cardName": "Leezpunk – Treasure Bandit",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-014.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-014TSR",
+        "cardName": "Leezpunk – Treasure Bandit",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-014TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-015",
+        "cardName": "Cawgnito – Looming Shadow",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-015.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-016",
+        "cardName": "Incineram – Lurking Stalker",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-016.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-016TSR",
+        "cardName": "Incineram – Lurking Stalker",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-016TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-017",
+        "cardName": "Blazehowl Noct – Darkflame Defender",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-017.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-018",
+        "cardName": "Felbat – Lifestealer",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-018.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-018TSR",
+        "cardName": "Felbat – Lifestealer",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-018TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-019",
+        "cardName": "Hanging Trap",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-019.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-020",
+        "cardName": "Cawgnito Hat",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-020.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-021",
+        "cardName": "Strike from the Darkness",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-021.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-021TSR",
+        "cardName": "Strike from the Darkness",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-021TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-022",
+        "cardName": "Medical Supplies",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-022.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-023",
+        "cardName": "Cattiva – My First Pal",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-023.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-023TSR",
+        "cardName": "Cattiva – My First Pal",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-023TSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ETD02-024",
+        "cardName": "Chikipi – My First Pal",
+        "rare": "TD",
+        "image": "card_images/ETD02/ETD02-024.png",
+        "starterDeckCount": 2
+      },
+      {
+        "cardNumber": "ETD02-024TSR",
+        "cardName": "Chikipi – My First Pal",
+        "rare": "TSR",
+        "image": "card_images/ETD02/ETD02-024TSR.png",
+        "starterDeckCount": 0
+      }
+    ],
+    "hasStarterDeck": true
+  },
+  "EBP01": {
+    "name": "Booster Pack \"Dawn of Palpagos\"",
+    "cards": [
+      {
+        "cardNumber": "EBP01-001",
+        "cardName": "Jormuntide Ignis – Savage Lava Dragon",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-001.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-001OSR",
+        "cardName": "Jormuntide Ignis – Savage Lava Dragon",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-001OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-001SSP",
+        "cardName": "Jormuntide Ignis – Savage Lava Dragon",
+        "rare": "SSP",
+        "image": "card_images/EBP01/EBP01-001SSP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-002",
+        "cardName": "Suzaku – Hellfire Wings",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-002.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-002OSR",
+        "cardName": "Suzaku – Hellfire Wings",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-002OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-002SP",
+        "cardName": "Suzaku – Hellfire Wings",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-002SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-003",
+        "cardName": "Gobfin Ignis – Blazing Hothead",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-003.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-003SR",
+        "cardName": "Gobfin Ignis – Blazing Hothead",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-003SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-004",
+        "cardName": "Bushi – Ephemeral Blade",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-004.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-004SR",
+        "cardName": "Bushi – Ephemeral Blade",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-004SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-005",
+        "cardName": "Reptyro – Ore Gorger",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-005.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-005SR",
+        "cardName": "Reptyro – Ore Gorger",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-005SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-006",
+        "cardName": "Foxparks – Light of Courage",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-006.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-006SR",
+        "cardName": "Foxparks – Light of Courage",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-006SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-007",
+        "cardName": "Kitsun – Wyrmbane Fangs",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-007.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-007SR",
+        "cardName": "Kitsun – Wyrmbane Fangs",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-007SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-008",
+        "cardName": "Sparkit – Hazardous Contact",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-008.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-009",
+        "cardName": "Univolt – Valiant Thunderclap",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-009.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-010",
+        "cardName": "Ragnahawk – Emberwing Striker",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-010.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-011",
+        "cardName": "Rooby – Brave Sparks",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-011.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-012",
+        "cardName": "Flambelle – Scorching Tears",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-012.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-013",
+        "cardName": "Pyrin – Cinder Steed",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-013.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-014",
+        "cardName": "Blazehowl – Hellflame Defender",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-014.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-015",
+        "cardName": "Mounted Machine Gun",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-015.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-015SP",
+        "cardName": "Mounted Machine Gun",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-015SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-016",
+        "cardName": "Primitive Furnace",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-016.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-017",
+        "cardName": "Flame Cauldron",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-017.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-018",
+        "cardName": "Alarm Bell",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-018.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-019",
+        "cardName": "Foxparks' Harness",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-019.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-019SR",
+        "cardName": "Foxparks' Harness",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-019SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-020",
+        "cardName": "Pump-Action Shotgun",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-020.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-020SR",
+        "cardName": "Pump-Action Shotgun",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-020SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-021",
+        "cardName": "Makeshift Handgun",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-021.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-022",
+        "cardName": "Stone Pickaxe",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-022.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-023",
+        "cardName": "Axel's Strategy",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-023.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-023OSR",
+        "cardName": "Axel's Strategy",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-023OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-023SP",
+        "cardName": "Axel's Strategy",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-023SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-024",
+        "cardName": "Treasure Chest Found!",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-024.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-025",
+        "cardName": "Chillet – Dragon Whisperer",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-025.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-025OSR",
+        "cardName": "Chillet – Dragon Whisperer",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-025OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-025SSP",
+        "cardName": "Chillet – Dragon Whisperer",
+        "rare": "SSP",
+        "image": "card_images/EBP01/EBP01-025SSP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-026",
+        "cardName": "Relaxaurus – Hungry Gunner",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-026.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-026OSR",
+        "cardName": "Relaxaurus – Hungry Gunner",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-026OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-026SP",
+        "cardName": "Relaxaurus – Hungry Gunner",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-026SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-027",
+        "cardName": "Jormuntide – Surging Sea Serpent",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-027.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-027OSR",
+        "cardName": "Jormuntide – Surging Sea Serpent",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-027OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-027SP",
+        "cardName": "Jormuntide – Surging Sea Serpent",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-027SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-028",
+        "cardName": "Pengullet – Yearning for the Sky",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-028.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-028SR",
+        "cardName": "Pengullet – Yearning for the Sky",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-028SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-029",
+        "cardName": "Azurobe – Water Dragon Waltz",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-029.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-029SR",
+        "cardName": "Azurobe – Water Dragon Waltz",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-029SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-030",
+        "cardName": "Reptyro Cryst – Glacial Devourer",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-030.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-030SR",
+        "cardName": "Reptyro Cryst – Glacial Devourer",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-030SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-031",
+        "cardName": "Penking – Mighty Warrior of the Deep",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-031.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-031SR",
+        "cardName": "Penking – Mighty Warrior of the Deep",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-031SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-032",
+        "cardName": "Fuack – Manic Wave Ripper",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-032.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-033",
+        "cardName": "Wumpo – Frostpeak Sentinel",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-033.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-034",
+        "cardName": "Teafant – Fountain of Cheer",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-034.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-035",
+        "cardName": "Mau Cryst – Harbinger of Riches",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-035.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-036",
+        "cardName": "Celaray – Loop De Loop",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-036.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-037",
+        "cardName": "Surfent – Swift Swimmer",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-037.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-038",
+        "cardName": "Cryolinx – Arctic Ordeal",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-038.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-039",
+        "cardName": "Antique Curtain",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-039.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-039SR",
+        "cardName": "Antique Curtain",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-039SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-040",
+        "cardName": "Antique Dresser",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-040.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-041",
+        "cardName": "Hot Spring",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-041.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-042",
+        "cardName": "Antique Mirror",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-042.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-043",
+        "cardName": "Sphere Workbench",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-043.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-044",
+        "cardName": "Pengullet Rocket Launcher",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-044.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-044SR",
+        "cardName": "Pengullet Rocket Launcher",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-044SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-045",
+        "cardName": "Grappling Gun",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-045.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-046",
+        "cardName": "Victor's Strategy",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-046.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-046OSR",
+        "cardName": "Victor's Strategy",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-046OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-046SP",
+        "cardName": "Victor's Strategy",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-046SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-047",
+        "cardName": "Pal Sphere",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-047.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-047SR",
+        "cardName": "Pal Sphere",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-047SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-048",
+        "cardName": "Aurora Guide",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-048.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-049",
+        "cardName": "Lyleen – Blessing of the Goddess",
+        "rare": "RR/SSP",
+        "image": "card_images/EBP01/EBP01-049.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-049OSR",
+        "cardName": "Lyleen – Blessing of the Goddess",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-049OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-049SSP",
+        "cardName": "Lyleen – Blessing of the Goddess",
+        "rare": "SSP",
+        "image": "card_images/EBP01/EBP01-049SSP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-050",
+        "cardName": "Digtoise – Seismic Drillback",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-050.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-050OSR",
+        "cardName": "Digtoise – Seismic Drillback",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-050OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-050SP",
+        "cardName": "Digtoise – Seismic Drillback",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-050SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-051",
+        "cardName": "Petallia – Sweet Blessings",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-051.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-051OSR",
+        "cardName": "Petallia – Sweet Blessings",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-051OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-051SP",
+        "cardName": "Petallia – Sweet Blessings",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-051SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-052",
+        "cardName": "Rushoar – Reckless Destruction",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-052.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-052SR",
+        "cardName": "Rushoar – Reckless Destruction",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-052SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-053",
+        "cardName": "Elizabee – Queen of the Flower Garden",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-053.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-053SR",
+        "cardName": "Elizabee – Queen of the Flower Garden",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-053SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-054",
+        "cardName": "Warsect – Iron Fortress",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-054.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-054SR",
+        "cardName": "Warsect – Iron Fortress",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-054SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-055",
+        "cardName": "Vaelet – Bewitching Blossom",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-055.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-055SR",
+        "cardName": "Vaelet – Bewitching Blossom",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-055SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-056",
+        "cardName": "Lifmunk – Promising Newbie",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-056.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-056SR",
+        "cardName": "Lifmunk – Promising Newbie",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-056SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-057",
+        "cardName": "Dumud – Mellow Bounty",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-057.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-058",
+        "cardName": "Gumoss – Curious Sprout",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-058.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-059",
+        "cardName": "Digtoise – Keen Needleback",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-059.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-060",
+        "cardName": "Tanzee – Cheerful Worker",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-060.png",
+        "starterDeckCount": 0
+      }
+    ],
+    "hasStarterDeck": false
+  },
+  "PR2026": {
+    "name": "PR Cards (2026)",
+    "cards": [
+      {
+        "cardNumber": "ESOUL-000",
+        "cardName": "Soul",
+        "rare": "PR",
+        "image": "card_images/PR2026/ESOUL-000.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "ESOUL-003",
+        "cardName": "Soul",
+        "rare": "PR",
+        "image": "card_images/PR2026/ESOUL-003.png",
+        "starterDeckCount": 0
+      }
+    ],
+    "hasStarterDeck": false
+  }
+}

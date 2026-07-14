@@ -1,0 +1,314 @@
+[
+  {
+    "id": 78,
+    "card_number": "ESOUL-001",
+    "card_name": "Soul",
+    "rare": "TD",
+    "picture": "ETD02/ESOUL-001.png",
+    "downloaded": true
+  },
+  {
+    "id": 40,
+    "card_number": "ETD02-001",
+    "card_name": "Mossanda – Guard Captain",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-001.png",
+    "downloaded": true
+  },
+  {
+    "id": 41,
+    "card_number": "ETD02-001TSP",
+    "card_name": "Mossanda – Guard Captain",
+    "rare": "TSP",
+    "picture": "ETD02/ETD02-001TSP.png",
+    "downloaded": true
+  },
+  {
+    "id": 42,
+    "card_number": "ETD02-001TSR",
+    "card_name": "Mossanda – Guard Captain",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-001TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 43,
+    "card_number": "ETD02-002",
+    "card_name": "Gumoss – Dreamy Seedling",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-002.png",
+    "downloaded": true
+  },
+  {
+    "id": 44,
+    "card_number": "ETD02-003",
+    "card_name": "Flopie – Snack Lover",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-003.png",
+    "downloaded": true
+  },
+  {
+    "id": 45,
+    "card_number": "ETD02-003TSR",
+    "card_name": "Flopie – Snack Lover",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-003TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 46,
+    "card_number": "ETD02-004",
+    "card_name": "Dinossom – Radiant Fragrance",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-004.png",
+    "downloaded": true
+  },
+  {
+    "id": 47,
+    "card_number": "ETD02-005",
+    "card_name": "Eikthyrdeer Terra – Guardian of Nature",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-005.png",
+    "downloaded": true
+  },
+  {
+    "id": 48,
+    "card_number": "ETD02-006",
+    "card_name": "Broncherry – Brimming Adoration",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-006.png",
+    "downloaded": true
+  },
+  {
+    "id": 49,
+    "card_number": "ETD02-006TSR",
+    "card_name": "Broncherry – Brimming Adoration",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-006TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 50,
+    "card_number": "ETD02-007",
+    "card_name": "Mammorest – Roar of the Wilds",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-007.png",
+    "downloaded": true
+  },
+  {
+    "id": 51,
+    "card_number": "ETD02-007TSR",
+    "card_name": "Mammorest – Roar of the Wilds",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-007TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 52,
+    "card_number": "ETD02-008",
+    "card_name": "Berry Plantation",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-008.png",
+    "downloaded": true
+  },
+  {
+    "id": 53,
+    "card_number": "ETD02-008TSR",
+    "card_name": "Berry Plantation",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-008TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 54,
+    "card_number": "ETD02-009",
+    "card_name": "Campfire",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-009.png",
+    "downloaded": true
+  },
+  {
+    "id": 55,
+    "card_number": "ETD02-010",
+    "card_name": "Refined Metal Spear",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-010.png",
+    "downloaded": true
+  },
+  {
+    "id": 56,
+    "card_number": "ETD02-011",
+    "card_name": "Stone Blast",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-011.png",
+    "downloaded": true
+  },
+  {
+    "id": 57,
+    "card_number": "ETD02-012",
+    "card_name": "Astegon – Aegis Wyvern of Death",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-012.png",
+    "downloaded": true
+  },
+  {
+    "id": 58,
+    "card_number": "ETD02-012TSP",
+    "card_name": "Astegon – Aegis Wyvern of Death",
+    "rare": "TSP",
+    "picture": "ETD02/ETD02-012TSP.png",
+    "downloaded": true
+  },
+  {
+    "id": 59,
+    "card_number": "ETD02-012TSR",
+    "card_name": "Astegon – Aegis Wyvern of Death",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-012TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 60,
+    "card_number": "ETD02-013",
+    "card_name": "Hoocrates – Embodiment of Wisdom",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-013.png",
+    "downloaded": true
+  },
+  {
+    "id": 61,
+    "card_number": "ETD02-014",
+    "card_name": "Leezpunk – Treasure Bandit",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-014.png",
+    "downloaded": true
+  },
+  {
+    "id": 62,
+    "card_number": "ETD02-014TSR",
+    "card_name": "Leezpunk – Treasure Bandit",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-014TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 63,
+    "card_number": "ETD02-015",
+    "card_name": "Cawgnito – Looming Shadow",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-015.png",
+    "downloaded": true
+  },
+  {
+    "id": 64,
+    "card_number": "ETD02-016",
+    "card_name": "Incineram – Lurking Stalker",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-016.png",
+    "downloaded": true
+  },
+  {
+    "id": 65,
+    "card_number": "ETD02-016TSR",
+    "card_name": "Incineram – Lurking Stalker",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-016TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 66,
+    "card_number": "ETD02-017",
+    "card_name": "Blazehowl Noct – Darkflame Defender",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-017.png",
+    "downloaded": true
+  },
+  {
+    "id": 67,
+    "card_number": "ETD02-018",
+    "card_name": "Felbat – Lifestealer",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-018.png",
+    "downloaded": true
+  },
+  {
+    "id": 68,
+    "card_number": "ETD02-018TSR",
+    "card_name": "Felbat – Lifestealer",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-018TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 69,
+    "card_number": "ETD02-019",
+    "card_name": "Hanging Trap",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-019.png",
+    "downloaded": true
+  },
+  {
+    "id": 70,
+    "card_number": "ETD02-020",
+    "card_name": "Cawgnito Hat",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-020.png",
+    "downloaded": true
+  },
+  {
+    "id": 71,
+    "card_number": "ETD02-021",
+    "card_name": "Strike from the Darkness",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-021.png",
+    "downloaded": true
+  },
+  {
+    "id": 72,
+    "card_number": "ETD02-021TSR",
+    "card_name": "Strike from the Darkness",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-021TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 73,
+    "card_number": "ETD02-022",
+    "card_name": "Medical Supplies",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-022.png",
+    "downloaded": true
+  },
+  {
+    "id": 74,
+    "card_number": "ETD02-023",
+    "card_name": "Cattiva – My First Pal",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-023.png",
+    "downloaded": true
+  },
+  {
+    "id": 75,
+    "card_number": "ETD02-023TSR",
+    "card_name": "Cattiva – My First Pal",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-023TSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 76,
+    "card_number": "ETD02-024",
+    "card_name": "Chikipi – My First Pal",
+    "rare": "TD",
+    "picture": "ETD02/ETD02-024.png",
+    "downloaded": true
+  },
+  {
+    "id": 77,
+    "card_number": "ETD02-024TSR",
+    "card_name": "Chikipi – My First Pal",
+    "rare": "TSR",
+    "picture": "ETD02/ETD02-024TSR.png",
+    "downloaded": true
+  }
+]
