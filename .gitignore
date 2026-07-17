@@ -27,3 +27,6 @@ dist-ssr
 *.sw?
 
 __pycache__/
+
+# Downloaded on demand by tools/setup_upscaler.py -- see upscale_cards.py
+tools/realesrgan/
