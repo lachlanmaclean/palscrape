@@ -6,6 +6,7 @@ import './App.css';
 
 const DB = cardData as unknown as CardDatabase;
 const EXPANSION_CODES = Object.keys(DB);
+const COUNTERS_CODE = 'COUNTERS';
 
 function cardKey(expansionCode: string, cardNumber: string) {
   return `${expansionCode}::${cardNumber}`;
@@ -65,9 +66,11 @@ function App() {
 
   async function handleExportStarterDeck(expansionCode: string) {
     const exp = DB[expansionCode];
-    const deckSelection: SelectionEntry[] = exp.cards
-      .filter((c) => c.starterDeckCount > 0)
-      .map((card) => ({ card, count: card.starterDeckCount }));
+    const counters = DB[COUNTERS_CODE];
+    const deckSelection: SelectionEntry[] = [
+      ...exp.cards.filter((c) => c.starterDeckCount > 0),
+      ...(counters ? counters.cards.filter((c) => c.starterDeckCount > 0) : []),
+    ].map((card) => ({ card, count: card.starterDeckCount }));
     if (deckSelection.length === 0) return;
 
     setExporting(true);
@@ -102,7 +105,7 @@ function App() {
             className={code === activeExpansion ? 'tab active' : 'tab'}
             onClick={() => setActiveExpansion(code)}
           >
-            {code}
+            {code === COUNTERS_CODE ? 'Counters' : code}
           </button>
         ))}
       </nav>

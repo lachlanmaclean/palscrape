@@ -1282,5 +1282,25 @@
       }
     ],
     "hasStarterDeck": false
+  },
+  "COUNTERS": {
+    "name": "Counters",
+    "cards": [
+      {
+        "cardNumber": "LIFE-COUNTER",
+        "cardName": "Life Counter",
+        "rare": "Accessory",
+        "image": "card_images/counters/1.png",
+        "starterDeckCount": 1
+      },
+      {
+        "cardNumber": "MATERIAL-COUNTER",
+        "cardName": "Material & Ingredients Counter",
+        "rare": "Accessory",
+        "image": "card_images/counters/2.png",
+        "starterDeckCount": 1
+      }
+    ],
+    "hasStarterDeck": false
   }
 }
