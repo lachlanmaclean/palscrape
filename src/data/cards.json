@@ -1259,6 +1259,433 @@
         "rare": "C",
         "image": "card_images/EBP01/EBP01-060.png",
         "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-061",
+        "cardName": "Beegarde – Knight of the Flower Garden",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-061.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-062",
+        "cardName": "Wumpo Botan – Tropical Sentinel",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-062.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-063",
+        "cardName": "Breeding Farm",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-063.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-063SR",
+        "cardName": "Breeding Farm",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-063SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-064",
+        "cardName": "Cola Vending Machine",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-064.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-064SR",
+        "cardName": "Cola Vending Machine",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-064SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-065",
+        "cardName": "Feed Box",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-065.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-066",
+        "cardName": "Ranch",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-066.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-067",
+        "cardName": "No Pals Beyond Sign",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-067.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-068",
+        "cardName": "Digtoise's Headband",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-068.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-069",
+        "cardName": "Farming Hat",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-069.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-070",
+        "cardName": "Lily's Strategy",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-070.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-070OSR",
+        "cardName": "Lily's Strategy",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-070OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-070SP",
+        "cardName": "Lily's Strategy",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-070SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-071",
+        "cardName": "Found an Egg!",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-071.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-072",
+        "cardName": "Blessing of the Flower Spirit",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-072.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-073",
+        "cardName": "Helzephyr – Wings of the Moonless Night",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-073.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-073OSR",
+        "cardName": "Helzephyr – Wings of the Moonless Night",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-073OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-073SSP",
+        "cardName": "Helzephyr – Wings of the Moonless Night",
+        "rare": "SSP",
+        "image": "card_images/EBP01/EBP01-073SSP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-074",
+        "cardName": "Shadowbeak – Seed of Despair",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-074.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-074OSR",
+        "cardName": "Shadowbeak – Seed of Despair",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-074OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-074SP",
+        "cardName": "Shadowbeak – Seed of Despair",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-074SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-075",
+        "cardName": "Katress – Abyssal Sorcerer",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-075.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-075OSR",
+        "cardName": "Katress – Abyssal Sorcerer",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-075OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-075SP",
+        "cardName": "Katress – Abyssal Sorcerer",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-075SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-076",
+        "cardName": "Tombat – Out of Nowhere!?",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-076.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-076SR",
+        "cardName": "Tombat – Out of Nowhere!?",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-076SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-077",
+        "cardName": "Pyrin Noct – Steed of Azure Flames",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-077.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-077SR",
+        "cardName": "Pyrin Noct – Steed of Azure Flames",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-077SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-078",
+        "cardName": "Lyleen Noct – Providence of the Goddess",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-078.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-078SR",
+        "cardName": "Lyleen Noct – Providence of the Goddess",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-078SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-079",
+        "cardName": "Depresso – Late Night Hustler",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-079.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-079SR",
+        "cardName": "Depresso – Late Night Hustler",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-079SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-080",
+        "cardName": "Daedream – First Slumber",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-080.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-080SR",
+        "cardName": "Daedream – First Slumber",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-080SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-081",
+        "cardName": "Lovander – Heartstealer",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-081.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-081SR",
+        "cardName": "Lovander – Heartstealer",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-081SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-082",
+        "cardName": "Daedream – Deep Slumber",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-082.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-083",
+        "cardName": "Vanwyrm – Marauder of the Skies",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-083.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-084",
+        "cardName": "Menasting – Darkness-Dwelling Scorpion",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-084.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-085",
+        "cardName": "Maraith – Twilight Messenger",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-085.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-086",
+        "cardName": "Nox – The Silent One",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-086.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-087",
+        "cardName": "Loupmoon – Glinting Moonlight",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-087.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-088",
+        "cardName": "Lamp",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-088.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-088SR",
+        "cardName": "Lamp",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-088SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-089",
+        "cardName": "Shoddy Bed",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-089.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-090",
+        "cardName": "Medieval Medicine Workbench",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-090.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-091",
+        "cardName": "Wooden Wall",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-091.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-092",
+        "cardName": "Viewing Cage",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-092.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-093",
+        "cardName": "Meat Cleaver",
+        "rare": "R",
+        "image": "card_images/EBP01/EBP01-093.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-093SR",
+        "cardName": "Meat Cleaver",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-093SR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-094",
+        "cardName": "Daedream's Necklace",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-094.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-095",
+        "cardName": "Zoe's Strategy",
+        "rare": "RR",
+        "image": "card_images/EBP01/EBP01-095.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-095OSR",
+        "cardName": "Zoe's Strategy",
+        "rare": "OSR",
+        "image": "card_images/EBP01/EBP01-095OSR.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-095SP",
+        "cardName": "Zoe's Strategy",
+        "rare": "SP",
+        "image": "card_images/EBP01/EBP01-095SP.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-096",
+        "cardName": "Dark Cannon",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-096.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-097",
+        "cardName": "Black Marketeer",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-097.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-098",
+        "cardName": "Elphidran – Gentle Radiance",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-098.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-099",
+        "cardName": "Direhowl – Proud Fang",
+        "rare": "C",
+        "image": "card_images/EBP01/EBP01-099.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-100",
+        "cardName": "The Adventure Begins",
+        "rare": "U",
+        "image": "card_images/EBP01/EBP01-100.png",
+        "starterDeckCount": 0
+      },
+      {
+        "cardNumber": "EBP01-100SR",
+        "cardName": "The Adventure Begins",
+        "rare": "SR",
+        "image": "card_images/EBP01/EBP01-100SR.png",
+        "starterDeckCount": 0
       }
     ],
     "hasStarterDeck": false

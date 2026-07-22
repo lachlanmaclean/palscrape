@@ -798,5 +798,493 @@
     "rare": "C",
     "picture": "EBP01/EBP01-060.png",
     "downloaded": true
+  },
+  {
+    "id": 179,
+    "card_number": "EBP01-061",
+    "card_name": "Beegarde – Knight of the Flower Garden",
+    "rare": "C",
+    "picture": "EBP01/EBP01-061.png",
+    "downloaded": true
+  },
+  {
+    "id": 180,
+    "card_number": "EBP01-062",
+    "card_name": "Wumpo Botan – Tropical Sentinel",
+    "rare": "C",
+    "picture": "EBP01/EBP01-062.png",
+    "downloaded": true
+  },
+  {
+    "id": 181,
+    "card_number": "EBP01-063",
+    "card_name": "Breeding Farm",
+    "rare": "R",
+    "picture": "EBP01/EBP01-063.png",
+    "downloaded": true
+  },
+  {
+    "id": 182,
+    "card_number": "EBP01-063SR",
+    "card_name": "Breeding Farm",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-063SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 183,
+    "card_number": "EBP01-064",
+    "card_name": "Cola Vending Machine",
+    "rare": "R",
+    "picture": "EBP01/EBP01-064.png",
+    "downloaded": true
+  },
+  {
+    "id": 184,
+    "card_number": "EBP01-064SR",
+    "card_name": "Cola Vending Machine",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-064SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 185,
+    "card_number": "EBP01-065",
+    "card_name": "Feed Box",
+    "rare": "U",
+    "picture": "EBP01/EBP01-065.png",
+    "downloaded": true
+  },
+  {
+    "id": 186,
+    "card_number": "EBP01-066",
+    "card_name": "Ranch",
+    "rare": "U",
+    "picture": "EBP01/EBP01-066.png",
+    "downloaded": true
+  },
+  {
+    "id": 187,
+    "card_number": "EBP01-067",
+    "card_name": "No Pals Beyond Sign",
+    "rare": "C",
+    "picture": "EBP01/EBP01-067.png",
+    "downloaded": true
+  },
+  {
+    "id": 188,
+    "card_number": "EBP01-068",
+    "card_name": "Digtoise's Headband",
+    "rare": "U",
+    "picture": "EBP01/EBP01-068.png",
+    "downloaded": true
+  },
+  {
+    "id": 189,
+    "card_number": "EBP01-069",
+    "card_name": "Farming Hat",
+    "rare": "C",
+    "picture": "EBP01/EBP01-069.png",
+    "downloaded": true
+  },
+  {
+    "id": 190,
+    "card_number": "EBP01-070",
+    "card_name": "Lily's Strategy",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-070.png",
+    "downloaded": true
+  },
+  {
+    "id": 191,
+    "card_number": "EBP01-070OSR",
+    "card_name": "Lily's Strategy",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-070OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 192,
+    "card_number": "EBP01-070SP",
+    "card_name": "Lily's Strategy",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-070SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 193,
+    "card_number": "EBP01-071",
+    "card_name": "Found an Egg!",
+    "rare": "C",
+    "picture": "EBP01/EBP01-071.png",
+    "downloaded": true
+  },
+  {
+    "id": 194,
+    "card_number": "EBP01-072",
+    "card_name": "Blessing of the Flower Spirit",
+    "rare": "C",
+    "picture": "EBP01/EBP01-072.png",
+    "downloaded": true
+  },
+  {
+    "id": 195,
+    "card_number": "EBP01-073",
+    "card_name": "Helzephyr – Wings of the Moonless Night",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-073.png",
+    "downloaded": true
+  },
+  {
+    "id": 196,
+    "card_number": "EBP01-073OSR",
+    "card_name": "Helzephyr – Wings of the Moonless Night",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-073OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 197,
+    "card_number": "EBP01-073SSP",
+    "card_name": "Helzephyr – Wings of the Moonless Night",
+    "rare": "SSP",
+    "picture": "EBP01/EBP01-073SSP.png",
+    "downloaded": true
+  },
+  {
+    "id": 198,
+    "card_number": "EBP01-074",
+    "card_name": "Shadowbeak – Seed of Despair",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-074.png",
+    "downloaded": true
+  },
+  {
+    "id": 199,
+    "card_number": "EBP01-074OSR",
+    "card_name": "Shadowbeak – Seed of Despair",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-074OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 200,
+    "card_number": "EBP01-074SP",
+    "card_name": "Shadowbeak – Seed of Despair",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-074SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 201,
+    "card_number": "EBP01-075",
+    "card_name": "Katress – Abyssal Sorcerer",
+    "rare": "R",
+    "picture": "EBP01/EBP01-075.png",
+    "downloaded": true
+  },
+  {
+    "id": 202,
+    "card_number": "EBP01-075OSR",
+    "card_name": "Katress – Abyssal Sorcerer",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-075OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 203,
+    "card_number": "EBP01-075SP",
+    "card_name": "Katress – Abyssal Sorcerer",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-075SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 204,
+    "card_number": "EBP01-076",
+    "card_name": "Tombat – Out of Nowhere!?",
+    "rare": "R",
+    "picture": "EBP01/EBP01-076.png",
+    "downloaded": true
+  },
+  {
+    "id": 205,
+    "card_number": "EBP01-076SR",
+    "card_name": "Tombat – Out of Nowhere!?",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-076SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 206,
+    "card_number": "EBP01-077",
+    "card_name": "Pyrin Noct – Steed of Azure Flames",
+    "rare": "R",
+    "picture": "EBP01/EBP01-077.png",
+    "downloaded": true
+  },
+  {
+    "id": 207,
+    "card_number": "EBP01-077SR",
+    "card_name": "Pyrin Noct – Steed of Azure Flames",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-077SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 208,
+    "card_number": "EBP01-078",
+    "card_name": "Lyleen Noct – Providence of the Goddess",
+    "rare": "R",
+    "picture": "EBP01/EBP01-078.png",
+    "downloaded": true
+  },
+  {
+    "id": 209,
+    "card_number": "EBP01-078SR",
+    "card_name": "Lyleen Noct – Providence of the Goddess",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-078SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 210,
+    "card_number": "EBP01-079",
+    "card_name": "Depresso – Late Night Hustler",
+    "rare": "U",
+    "picture": "EBP01/EBP01-079.png",
+    "downloaded": true
+  },
+  {
+    "id": 211,
+    "card_number": "EBP01-079SR",
+    "card_name": "Depresso – Late Night Hustler",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-079SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 212,
+    "card_number": "EBP01-080",
+    "card_name": "Daedream – First Slumber",
+    "rare": "C",
+    "picture": "EBP01/EBP01-080.png",
+    "downloaded": true
+  },
+  {
+    "id": 213,
+    "card_number": "EBP01-080SR",
+    "card_name": "Daedream – First Slumber",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-080SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 214,
+    "card_number": "EBP01-081",
+    "card_name": "Lovander – Heartstealer",
+    "rare": "C",
+    "picture": "EBP01/EBP01-081.png",
+    "downloaded": true
+  },
+  {
+    "id": 215,
+    "card_number": "EBP01-081SR",
+    "card_name": "Lovander – Heartstealer",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-081SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 216,
+    "card_number": "EBP01-082",
+    "card_name": "Daedream – Deep Slumber",
+    "rare": "U",
+    "picture": "EBP01/EBP01-082.png",
+    "downloaded": true
+  },
+  {
+    "id": 217,
+    "card_number": "EBP01-083",
+    "card_name": "Vanwyrm – Marauder of the Skies",
+    "rare": "U",
+    "picture": "EBP01/EBP01-083.png",
+    "downloaded": true
+  },
+  {
+    "id": 218,
+    "card_number": "EBP01-084",
+    "card_name": "Menasting – Darkness-Dwelling Scorpion",
+    "rare": "U",
+    "picture": "EBP01/EBP01-084.png",
+    "downloaded": true
+  },
+  {
+    "id": 219,
+    "card_number": "EBP01-085",
+    "card_name": "Maraith – Twilight Messenger",
+    "rare": "U",
+    "picture": "EBP01/EBP01-085.png",
+    "downloaded": true
+  },
+  {
+    "id": 220,
+    "card_number": "EBP01-086",
+    "card_name": "Nox – The Silent One",
+    "rare": "C",
+    "picture": "EBP01/EBP01-086.png",
+    "downloaded": true
+  },
+  {
+    "id": 221,
+    "card_number": "EBP01-087",
+    "card_name": "Loupmoon – Glinting Moonlight",
+    "rare": "C",
+    "picture": "EBP01/EBP01-087.png",
+    "downloaded": true
+  },
+  {
+    "id": 222,
+    "card_number": "EBP01-088",
+    "card_name": "Lamp",
+    "rare": "R",
+    "picture": "EBP01/EBP01-088.png",
+    "downloaded": true
+  },
+  {
+    "id": 223,
+    "card_number": "EBP01-088SR",
+    "card_name": "Lamp",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-088SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 224,
+    "card_number": "EBP01-089",
+    "card_name": "Shoddy Bed",
+    "rare": "U",
+    "picture": "EBP01/EBP01-089.png",
+    "downloaded": true
+  },
+  {
+    "id": 225,
+    "card_number": "EBP01-090",
+    "card_name": "Medieval Medicine Workbench",
+    "rare": "U",
+    "picture": "EBP01/EBP01-090.png",
+    "downloaded": true
+  },
+  {
+    "id": 226,
+    "card_number": "EBP01-091",
+    "card_name": "Wooden Wall",
+    "rare": "C",
+    "picture": "EBP01/EBP01-091.png",
+    "downloaded": true
+  },
+  {
+    "id": 227,
+    "card_number": "EBP01-092",
+    "card_name": "Viewing Cage",
+    "rare": "C",
+    "picture": "EBP01/EBP01-092.png",
+    "downloaded": true
+  },
+  {
+    "id": 228,
+    "card_number": "EBP01-093",
+    "card_name": "Meat Cleaver",
+    "rare": "R",
+    "picture": "EBP01/EBP01-093.png",
+    "downloaded": true
+  },
+  {
+    "id": 229,
+    "card_number": "EBP01-093SR",
+    "card_name": "Meat Cleaver",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-093SR.png",
+    "downloaded": true
+  },
+  {
+    "id": 230,
+    "card_number": "EBP01-094",
+    "card_name": "Daedream's Necklace",
+    "rare": "C",
+    "picture": "EBP01/EBP01-094.png",
+    "downloaded": true
+  },
+  {
+    "id": 231,
+    "card_number": "EBP01-095",
+    "card_name": "Zoe's Strategy",
+    "rare": "RR",
+    "picture": "EBP01/EBP01-095.png",
+    "downloaded": true
+  },
+  {
+    "id": 232,
+    "card_number": "EBP01-095OSR",
+    "card_name": "Zoe's Strategy",
+    "rare": "OSR",
+    "picture": "EBP01/EBP01-095OSR.png",
+    "downloaded": true
+  },
+  {
+    "id": 233,
+    "card_number": "EBP01-095SP",
+    "card_name": "Zoe's Strategy",
+    "rare": "SP",
+    "picture": "EBP01/EBP01-095SP.png",
+    "downloaded": true
+  },
+  {
+    "id": 234,
+    "card_number": "EBP01-096",
+    "card_name": "Dark Cannon",
+    "rare": "C",
+    "picture": "EBP01/EBP01-096.png",
+    "downloaded": true
+  },
+  {
+    "id": 235,
+    "card_number": "EBP01-097",
+    "card_name": "Black Marketeer",
+    "rare": "C",
+    "picture": "EBP01/EBP01-097.png",
+    "downloaded": true
+  },
+  {
+    "id": 236,
+    "card_number": "EBP01-098",
+    "card_name": "Elphidran – Gentle Radiance",
+    "rare": "U",
+    "picture": "EBP01/EBP01-098.png",
+    "downloaded": true
+  },
+  {
+    "id": 237,
+    "card_number": "EBP01-099",
+    "card_name": "Direhowl – Proud Fang",
+    "rare": "C",
+    "picture": "EBP01/EBP01-099.png",
+    "downloaded": true
+  },
+  {
+    "id": 238,
+    "card_number": "EBP01-100",
+    "card_name": "The Adventure Begins",
+    "rare": "U",
+    "picture": "EBP01/EBP01-100.png",
+    "downloaded": true
+  },
+  {
+    "id": 239,
+    "card_number": "EBP01-100SR",
+    "card_name": "The Adventure Begins",
+    "rare": "SR",
+    "picture": "EBP01/EBP01-100SR.png",
+    "downloaded": true
   }
 ]

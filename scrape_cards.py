@@ -64,7 +64,10 @@ def get_cards_for_expansion(expansion, per_page=200):
         data = json.loads(http_get(url))
         items = data.get("items", [])
         all_items.extend(items)
-        if len(items) < per_page:
+        # the server caps per_page (observed cap: 100) regardless of what's
+        # requested, so compare against the total count instead of per_page
+        total = data.get("total", len(all_items))
+        if len(items) == 0 or len(all_items) >= total:
             break
         page += 1
     return all_items
